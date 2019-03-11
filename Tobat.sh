@@ -84,7 +84,7 @@ if [ $gmt = 1 ]
 then 
 clear
 echo "Wait Bro"
-cd menu
+cd Menu
 mv -f VID-20190311-WA0029.mp4 /sdcard
 echo $red "DoneBosQ"
 echo $green "Silahkan Cek Di Folder/file"
@@ -94,7 +94,7 @@ if [ $gmt = 2 ]
 then 
 clear
 echo "Wait Bro"
-cd menu
+cd Menu
 mv -f  /sdcard
 echo $red "DoneBosQ"
 echo $green "Silahkan Cek Di Folder/file"
