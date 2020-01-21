@@ -1,9 +1,6 @@
 # bokep
-Special Thanks To
------InYourG00D--------
+1. How to use bokep [`Watch it`](https://youtu.be/xz3JNRTYzv0) 
+2. Fork it...
 
-
-Jangan lupa Subscribe Inti Tutorial 
-https://youtube.com/IntiTutorial
 
 note: DOSA DITANGGUNG SENDIRI 
